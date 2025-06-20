@@ -11,19 +11,19 @@
 ## Undergraduate Student Researcher - Nationwide Children's Hospital
 * Designed algorithms to define and analyze tumor boundary structures for various cell types
 * Developed advanced visualizations to analyze brain cancer cell interactions with immune cells
-* Created fencing algorthims to cluster immune cells in respect to cancer cells
+* Created fencing algorithms to cluster immune cells in respect to cancer cells
 * Applied statistical methods to compute spatial correlations, uncovering key tumor microenvironment patterns
 
 
 ## Undergraduate Student Researcher - Deparment of Aerospace and MAE at OSU
 ### Wildfire Detection using Drones
 * Designing, developing, and testing a fleet of compact autonomous drones for wildfire reconnaissance
-* Developing machine learning models for multi-modal wildfire image classification for use on drones
+* Building machine learning models for multi-modal wildfire image classification for use on drones
 * Updating department infrastructure to create an indoor drone testing lab for current and future projects
-### Inertial Measurment Unit Development
-* Simulating Control Systems in Matlab and Simulink for testing
-* Developing an Inertial Measurment Unit using development boards (Arduion, Bno055, and ESP32)
-* Implementing a Kalman Filter to account for noisy signal in MatLab and python
+### Inertial Measurement Unit Development
+* Simulating Control Systems in MATLAB and Simulink for testing
+* Developing an Inertial Measurement Unit using development boards (Arduino, Bno055, and ESP32)
+* Implementing a Kalman Filter to account for noisy signal in MATLAB and python
 
 
 ## Calculus tutor - Student-Athlete Support Services Office at OSU
