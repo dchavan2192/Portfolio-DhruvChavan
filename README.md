@@ -2,7 +2,9 @@
 
 
 ### Education
-Data Analytics, tOSU
+The Ohio State University  		           
+B.S. in Data Analytics                                                                                                                                               	
+Honors and Scholars Student
 
 
 ### Experience
