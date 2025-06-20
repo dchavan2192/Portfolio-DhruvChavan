@@ -15,7 +15,7 @@
 * Applied statistical methods to compute spatial correlations, uncovering key tumor microenvironment patterns
 
 
-## Undergraduate Student Researcher - Deparment of Aerospace and Mechanical Engineering at OSU
+## Undergraduate Student Researcher - Deparment of Aerospace and MAE at OSU
 ### Wildfire Detection using Drones
 * Designing, developing, and testing a fleet of compact autonomous drones for wildfire reconnaissance
 * Developing machine learning models for multi-modal wildfire image classification for use on drones
