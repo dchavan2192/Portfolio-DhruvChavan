@@ -1,7 +1,7 @@
 # Dhruv Chavan's Portfolio
 
 
-## Undergraduate Student Researcher - The Ohio State Wexner Center
+## [Undergraduate Student Researcher - The Ohio State Wexner Center](https://github.com/dchavan2192/Research-OSU-Wexner-Center-)
 * Published a research paper as second author to the international RESNA conference
 * Presented findings at OSU Health and Rehabilitation to the 2025 RehabWeek to over 2,000 members across the globe
 * Processed 4,000+ data points, leading to actionable insights into patient care and assistive technology
