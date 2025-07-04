@@ -8,7 +8,7 @@
 * Conducted statistical tests and data analysis to identify demographic correlations and create visual representations
 
 
-## Undergraduate Student Researcher - Nationwide Children's Hospital
+## [Undergraduate Student Researcher - Nationwide Children's Hospital](https://github.com/dchavan2192/Nationwide-Children-s-Hospital---Research)
 * Designed algorithms to define and analyze tumor boundary structures for various cell types
 * Developed advanced visualizations to analyze brain cancer cell interactions with immune cells
 * Created fencing algorithms to cluster immune cells in respect to cancer cells
