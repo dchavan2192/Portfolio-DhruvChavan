@@ -20,7 +20,7 @@
 * Designing, developing, and testing a fleet of compact autonomous drones for wildfire reconnaissance
 * Building machine learning models for multi-modal wildfire image classification for use on drones
 * Updating department infrastructure to create an indoor drone testing lab for current and future projects
-### Inertial Measurement Unit Development
+### [Inertial Measurement Unit Development](https://github.com/dchavan2192/Research-OSU-IMU-Dev/tree/main)
 * Simulating Control Systems in MATLAB and Simulink for testing
 * Developing an Inertial Measurement Unit using development boards (Arduino, Bno055, and ESP32)
 * Implementing a Kalman Filter to account for noisy signal in MATLAB and python
