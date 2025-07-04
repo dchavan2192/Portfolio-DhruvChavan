@@ -26,10 +26,6 @@
 * Implementing a Kalman Filter to account for noisy signal in MATLAB and python
 
 
-## Calculus tutor - Student-Athlete Support Services Office at OSU
-* Providing one-on-one weekly tutoring for student-athletes in Calculus I & II, improving their understanding
-* Developing and implementing personalized lesson plans tailored to individual learning needs
-
 ## President's Buckeye Accelerator	- Keenan Center for Entrepreneurship at OSU
 * Developed a business venture through workshops, gaining expertise in market strategy, and pitching skills
 * Conducted market research through surveys, student interviews, and calls to validate market demand.
