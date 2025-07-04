@@ -16,7 +16,7 @@
 
 
 ## Undergraduate Student Researcher - Department of Aerospace and MAE at OSU
-### [Wildfire Detection using Drones](https://github.com/dchavan2192/Research-OSU-Mechanical-Aerospace)
+### [Wildfire Detection using Drones](https://github.com/dchavan2192/Research-OSU-WildFire)
 * Designing, developing, and testing a fleet of compact autonomous drones for wildfire reconnaissance
 * Building machine learning models for multi-modal wildfire image classification for use on drones
 * Updating department infrastructure to create an indoor drone testing lab for current and future projects
