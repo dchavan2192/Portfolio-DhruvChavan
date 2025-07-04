@@ -42,8 +42,8 @@ Aspiring data scientist and researcher at The Ohio State University, exploring t
 
 ## 💻 Technical Projects
 
-### Animal Image Classification ML Model
-- Built an object-oriented CNN in TensorFlow/Keras achieving 98.2% classification accuracy.
+### [Animal Image Classification ML Model](https://github.com/dchavan2192/ML-Animal-Classification-Model/tree/main)
+- Built an object-oriented CNN in TensorFlow/Keras achieving 98.6% classification accuracy.
 - Trained on a balanced five-class dataset with data augmentation for improved robustness.
 - Stacked convolutional and pooling layers for better feature extraction and accuracy.
 
