@@ -52,9 +52,6 @@ Aspiring data scientist and researcher at The Ohio State University, exploring t
 - Built an iOS app in Xcode using ARKit and SceneKit to detect lymphedema swelling.
 - Captured facial volume using vector grids; integrated Google Firebase for authentication and secure data handling.
 
-### Raspberry Pi AI Glasses
-- Built wearable computer vision glasses using Raspberry Pi 5 and AI camera module.
-- Programmed obstacle detection and integrated servo-based alerts to assist low-vision users.
 
 ---
 
