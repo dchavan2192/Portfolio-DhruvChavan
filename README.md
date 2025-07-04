@@ -33,7 +33,7 @@ Aspiring data scientist and researcher at The Ohio State University, exploring t
 
 ## 🚀 Innovation & Leadership
 
-### President’s Buckeye Accelerator – Keenan Center for Entrepreneurship
+### [President’s Buckeye Accelerator – Keenan Center for Entrepreneurship](https://github.com/dchavan2192/President-Buckeye-Accelerator)
 - Developed a business venture through workshops focused on product design and pitch refinement.
 - Conducted extensive market research through interviews, surveys, and user validation calls.
 - Refined venture pitch with mentorship; selected to present in the finals to investors and faculty.
