@@ -1,5 +1,5 @@
 # Dhruv Chavan's Portfolio  
-Aspiring data scientist and researcher at The Ohio State University, exploring the intersection of AI, embedded systems, and healthcare technology.
+Aspiring data scientist and researcher at The Ohio State University.
 
 ---
 
