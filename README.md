@@ -55,7 +55,5 @@ Aspiring data scientist and researcher at The Ohio State University.
 
 ---
 
-## 📫 Contact  
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/dhruv-chavan-a11688288/)
 
 
