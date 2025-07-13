@@ -31,7 +31,7 @@ Aspiring data scientist and researcher at The Ohio State University.
 
 ---
 
-## 🚀 Innovation & Leadership
+## 🚀 Leadership
 
 ### [President’s Buckeye Accelerator – Keenan Center for Entrepreneurship](https://github.com/dchavan2192/President-Buckeye-Accelerator)
 - Developed a business venture through workshops focused on product design and pitch refinement.
@@ -40,7 +40,7 @@ Aspiring data scientist and researcher at The Ohio State University.
 
 ---
 
-## 💻 Technical Projects
+## 💻 Projects
 
 ### [Animal Image Classification ML Model](https://github.com/dchavan2192/ML-Animal-Classification-Model/tree/main)
 - Built an object-oriented CNN in TensorFlow/Keras achieving 98.6% classification accuracy.
